@@ -12,6 +12,7 @@ Bearing<br>
 Various M3 bolts. <br>
 M3 Heat insets.<br>
 <br>
+<img src="PXL_20240518_095736383.jpg" width="300" />
 </HTML>
 ![Alt text](PXL_20240518_095736383.jpg)
 ![Alt text](PXL_20240518_095754033.jpg)
